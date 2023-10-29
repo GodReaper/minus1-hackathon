@@ -23,7 +23,7 @@ git clone https://github.com/username/synthetic-indian-road-dataset.git
 cd synthetic-indian-road-dataset
 
 2. **Install Dependencies**:
-pip install -r requirements.txt
+  Use the provided google collab jupyter notebooks to install dependencies
 
 
 3. **Download the Pre-trained Model**:
